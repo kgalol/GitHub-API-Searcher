@@ -1,7 +1,5 @@
 import com.google.gson.annotations.SerializedName;
 
-import java.io.Serial;
-
 public class Repo {
 
     public String name;
