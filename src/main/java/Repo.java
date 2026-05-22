@@ -14,8 +14,6 @@ public class Repo {
     @SerializedName("html_url")
     public String url;
 
-    @SerializedName("")
-
     @Override
     public String toString() {
                 return "Name: " + name + "\n" +
